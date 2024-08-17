@@ -8,8 +8,11 @@ Data Cleaning and Preparation:-
 
 
 Raw sales data was collected and cleaned to ensure accuracy and consistency.
+
 Data was transformed to extract meaningful insights, such as:
+
 Converting date and time formats for better analysis.
+
 Deriving hours, weekdays, and months from transaction timestamps.
 
 
